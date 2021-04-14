@@ -13,6 +13,4 @@
 
 # 依存関係
 
-![スクリーンショット 2021-04-13 8 22 44](https://user-images.githubusercontent.com/29055497/114474562-737f8680-9c31-11eb-9bbd-e3c9ab0f1715.png)
-
-
+![スクリーンショット 2021-04-14 13 09 02](https://user-images.githubusercontent.com/29055497/114654020-3e079580-9d24-11eb-85e5-1b2cc8c291e7.png)
